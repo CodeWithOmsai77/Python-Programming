@@ -28,14 +28,20 @@ Choose a chapter below to open its folder, or expand the detailed index further 
 
 ## 🚀 Mini Projects
 
-These standalone programs are stored in `Python-Projects/`.
+These standalone scripts are stored in `Python-Projects/`. The collection contains the original calculator and games plus five new projects built around the concepts already covered in the learning chapters.
 
-| Project | Source Code |
-|---|---|
-| 🧮 **Calculator** | [Calc2.py](Python-Projects/Calc2.py) |
-| 🎮 **Snake Water Gun Game** | [snake_water_gun.py](Python-Projects/snake_water_gun.py) |
-| 🎯 **The Perfect Guess** | [the_perfect_guess.py](Python-Projects/the_perfect_guess.py) |
-| **All project files** | [Browse Python-Projects](Python-Projects/) |
+| Project | Concepts practised | Source |
+|---|---|---|
+| 🧮 **Calculator** | Tkinter GUI, event handling, arithmetic | [Calc2.py](Python-Projects/Calc2.py) |
+| 🎮 **Snake Water Gun Game** | Random choice, conditions, user input | [snake_water_gun.py](Python-Projects/snake_water_gun.py) |
+| 🎯 **The Perfect Guess** | Loops, comparisons, random numbers | [the_perfect_guess.py](Python-Projects/the_perfect_guess.py) |
+| 🎓 **Student Marks Analyzer** | Lists, functions, averages, grade boundaries | [student_marks_analyzer.py](Python-Projects/student_marks_analyzer.py) |
+| 💸 **Expense Tracker** | Dictionaries, loops, JSON file handling | [expense_tracker.py](Python-Projects/expense_tracker.py) |
+| 📇 **Contact Book** | Dictionaries, functions, search and update | [contact_book.py](Python-Projects/contact_book.py) |
+| 🧠 **Python Quiz Game** | Lists, dictionaries, loops, score tracking | [quiz_game.py](Python-Projects/quiz_game.py) |
+| 🔐 **Password Generator** | Strings, standard-library modules, secure random selection | [password_generator.py](Python-Projects/password_generator.py) |
+
+For project descriptions and run commands, see the **[Python Projects README](Python-Projects/README.md)**. The chapter-wise lesson files remain separate from these standalone projects.
 
 ---
 
