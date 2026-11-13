@@ -28,7 +28,7 @@ Choose a chapter below to open its folder, or expand the detailed index further 
 
 ## 🚀 Mini Projects
 
-These standalone scripts are stored in `Python-Projects/`. The collection contains the original calculator and games plus five new projects built around the concepts already covered in the learning chapters.
+These standalone scripts are stored in `Python-Projects/`. The collection contains nine standalone scripts: the original calculator and two games, plus six additional projects built around the concepts already covered in the learning chapters.
 
 | Project | Concepts practised | Source |
 |---|---|---|
