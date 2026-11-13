@@ -40,6 +40,7 @@ These standalone scripts are stored in `Python-Projects/`. The collection contai
 | 📇 **Contact Book** | Dictionaries, functions, search and update | [contact_book.py](Python-Projects/contact_book.py) |
 | 🧠 **Python Quiz Game** | Lists, dictionaries, loops, score tracking | [quiz_game.py](Python-Projects/quiz_game.py) |
 | 🔐 **Password Generator** | Strings, standard-library modules, secure random selection | [password_generator.py](Python-Projects/password_generator.py) |
+| 📷 **Webcam Face Detector** | OpenCV, Haar Cascade face detection, webcam video processing | [Face_Detector.py](Python-Projects/Face_Detector.py) |
 
 For project descriptions and run commands, see the **[Python Projects README](Python-Projects/README.md)**. The chapter-wise lesson files remain separate from these standalone projects.
 
