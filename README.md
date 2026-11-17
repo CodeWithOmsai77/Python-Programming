@@ -468,3 +468,32 @@ Use the Python interpreter installed on your system. Some programs that read or 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=11998e&height=80&section=footer&fontSize=16&fontColor=0f2027" alt="Decorative footer banner" />
 </p>
+
+
+## Run a Python Example
+
+From the repository root, run an individual script with:
+
+```bash
+python path/to/script.py
+```
+
+For a project with dependencies, create and activate a virtual environment before installing its requirements:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate        # Linux / macOS / WSL
+# .venv\\Scripts\\activate     # Windows PowerShell
+python -m pip install -r requirements.txt
+```
+
+Not every learning chapter needs external packages or a requirements file. Use the commands that match the folder you are running.
+
+## Practice and Validation Checklist
+
+- [ ] Predict the output before running the example.
+- [ ] Run the example with representative and boundary inputs.
+- [ ] Modify the code and explain the changed behaviour.
+- [ ] Handle invalid input and expected exceptions where relevant.
+- [ ] Keep external dependencies documented for standalone projects.
+- [ ] Record the concept and debugging notes beside the related exercise.
